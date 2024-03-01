@@ -74,8 +74,14 @@ footer {
 }
 
 .learn {
+    font-family: "Nabla", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 18;
     text-align: center;
-    size: 50px;
     padding: 10px;
     margin: 60px;
     color: white;
