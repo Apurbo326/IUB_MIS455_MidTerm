@@ -60,7 +60,49 @@ nav {
     font-size: 12px;
     font-family: sans-serif;
     background: #2c3e50;
+    margin: 100px;
   }
 
 
 /* My CSS Starts from here */
+footer {
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    font-size: 12px;
+    text-shadow: 2px 3px 2px #000000d6;
+}
+
+.learn {
+    padding: 10px;
+    margin: 60px;
+    color: white;
+}
+
+#profile-image-3 {
+    width: 100px;
+    border-radius: 50%;
+}
+#profile-image-3:hover {
+    border: 3px solid rgb(87, 130, 192);
+    box-shadow: 2px 5px 6px grey;
+}
+
+.container-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 65px;
+}
+
+.con-3 {
+    background-color: rgb(187, 185, 185);
+    outline: 2px;
+    outline-color: rgba(0, 0, 0, 0.541);
+    outline-style: solid;
+    border-radius: 5%;
+    margin: 2%;
+    padding: 8%;
+    box-shadow: 7px 7px rgba(0, 0, 0, 0.76);
+}
+
+

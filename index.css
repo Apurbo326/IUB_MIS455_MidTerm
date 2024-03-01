@@ -57,6 +57,7 @@ nav {
   }
 
   body {
+    margin: 100px;
     font-size: 12px;
     font-family: sans-serif;
     background: #2c3e50;
@@ -74,7 +75,7 @@ nav {
   p {
       bottom: 20px;
       width: 100%;
-      text-align: center;
+      text-align: justify;
       color: #ecf0f1;
       font-family: 'Cherry Swash',cursive;
       font-size: 16px;
@@ -93,6 +94,12 @@ nav {
 
 #link {
     color: aqua;
+}
+
+#img-2 {
+    margin-left: 38%;
+    border-radius: 20px;
+    width: 300px;
 }
 
 .release {
